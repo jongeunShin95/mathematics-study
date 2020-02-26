@@ -1,7 +1,7 @@
 ---
 title: Linear Algebra First Page
 sidebar: mydoc_sidebar
-keywords: first
+keywords: first, linear algebra
 permalink: mydoc_linear_algebra_first.html
 summary: "test page"
 folder: mydoc
