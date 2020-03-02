@@ -15,7 +15,7 @@ use_math: true
 
 n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 
-* ${n^2 \over n} = (n-1)!$
+#### * ${n! \over n} = (n-1)!$
 
 <br>
 
@@ -37,9 +37,9 @@ n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 <br><br>
 
 원형이 아닌 다각형인 경우(대칭인 경우)의 순열의 수
-* 정사각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! x {n \over 4}$
-* 정삼각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! x {n \over 3}$
-* 직사각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! x {n \over 2}$
+* 정사각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! \times {n \over 4}$
+* 정삼각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! \times {n \over 3}$
+* 직사각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! \times {n \over 2}$
 <br>
 
 {% include inline_image.html file="permutation/another_permutation.png" alt="circle_image" %}
