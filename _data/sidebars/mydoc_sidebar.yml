@@ -28,6 +28,14 @@ entries:
       output: web, pdf
       type: homepage
 
+  - title: High school mathematics
+    output: web, pdf
+    folderitems:
+
+    - title: Probability and Statistics
+      url: /mydoc_probability_and_statistics.html
+      output: web, pdf
+
   - title: Pre Algebra
     output: web, pdf
     folderitems:

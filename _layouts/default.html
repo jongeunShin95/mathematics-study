@@ -72,6 +72,9 @@
     {% endif %}
 
 </head>
+{% if page.use_math %}
+    {% include mathjax_support.html %}
+{% endif %}
 <body>
 {% include topnav.html %}
 <!-- Page Content -->
