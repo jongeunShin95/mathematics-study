@@ -12,3 +12,5 @@ use_math: true
 ## Limit of sequence
 
 ### 1. Convergent and Divergent Sequences
+
+${a~n~}$
