@@ -8,4 +8,4 @@ summary: mathematics study record site.
 
 ## start
 
-수학 공부 기록하기.
+[수악중독](https://mathjk.tistory.com/)에서 공부하고 기록하자.
