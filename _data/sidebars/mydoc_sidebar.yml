@@ -36,6 +36,10 @@ entries:
       url: /mydoc_probability_and_statistics.html
       output: web, pdf
 
+    - title: Calculus
+      url: /mydoc_calculus.html
+      output: web, pdf
+
   - title: Pre Algebra
     output: web, pdf
     folderitems:

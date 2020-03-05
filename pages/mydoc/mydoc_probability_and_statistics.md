@@ -9,7 +9,7 @@ use_math: true
 
 ---
 
-## permutation
+## number of cases
 
 ### 1. circular permutation
 
@@ -25,7 +25,7 @@ n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 
 위의 6가지를 원형으로 배열한 그림 <br>
 
-{% include inline_image.html file="permutation/circle.png" alt="circle_image" %}
+{% include inline_image.html file="probability_and_statistics/number_of_cases/circular_permutation/circle.png" alt="circle_image" %}
 
 위 그림에서 형관펜으로 칠한 수로 시작하는 경우 상대적인 위치가 같다. <br>
 즉, (1->2->3) (1->3->2)의 두가지 순서로 나타난다. <br><br>
@@ -42,4 +42,4 @@ n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 * 직사각형의 식탁에 n명을 앉히는 방법의 수 => $(n-1)! \times {n \over 2}$
 <br>
 
-{% include inline_image.html file="permutation/another_permutation.png" alt="circle_image" %}
+{% include inline_image.html file="probability_and_statistics/number_of_cases/circular_permutation/another_permutation.png" alt="circle_image" %}
