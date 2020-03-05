@@ -13,4 +13,4 @@ use_math: true
 
 ### 1. Convergent and Divergent Sequences
 
-{$a~n~$}
+{a~n~}
