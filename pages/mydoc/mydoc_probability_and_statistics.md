@@ -9,9 +9,9 @@ use_math: true
 
 ---
 
-## number of cases
+## Number of cases
 
-### 1. circular permutation
+### 1. Circular Permutation
 
 n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 

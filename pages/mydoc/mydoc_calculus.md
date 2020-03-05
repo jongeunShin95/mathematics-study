@@ -9,7 +9,6 @@ use_math: true
 
 ---
 
-## limit of sequence
+## Limit of sequence
 
-### 1. circular permutation
-
+### 1. Convergent and Divergent Sequences
