@@ -23,10 +23,10 @@ use_math: true
 * Divergent <br>
 발산의 경우 {a<sub>n</sub>}에서 n이 한없이 커질 때, a<sub>n</sub>의 값이 한없이 커지면 수열 {a<sub>n</sub>}은 양의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${n \to \infty}$ 일 때 $\lim_{n \to \infty}a_n = \infty$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\lim_{n \to \infty}a_n = \infty$
 <br><br>
 {a<sub>n</sub>}에서 n이 한없이 커질 때, a<sub>n</sub>의 값이 음수이면서 그 절댓값이 한없이 커지면 {a<sub>n</sub>}은 음의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${n \to \infty}$ 일 때 $\lim_{n \to \infty}a_n = -\infty$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\lim_{n \to \infty}a_n = -\infty$
 <br><br>
 수열 {a<sub>n</sub>}이 수렴하지도 않고, 발산하지도 않으면 진동한다고 한다.
