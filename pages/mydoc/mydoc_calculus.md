@@ -14,19 +14,26 @@ use_math: true
 ### 1. Convergent and Divergent Sequences
 
 * Convergent <br>
-수열 {a<sub>n</sub>}에서 n이 한없이 커질 때, a<sub>n</sub>이 일정한 값 $\alpha$에 한없이 가까워지면 수열 {a<sub>n</sub>}은 $\alpha$에 수렴한다고 한다. <br>이때, $\alpha$를 수열 {a<sub>n</sub>}의 극한값 또는 극한이라고 하고, 이것을 기호로
+수열 {$a_n$}에서 n이 한없이 커질 때, $a_n$이 일정한 값 $\alpha$에 한없이 가까워지면 수열 {$a_n$}은 $\alpha$에 수렴한다고 한다. <br>이때, $\alpha$를 수열 {$a_n$}의 극한값 또는 극한이라고 하고, 이것을 기호로
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${n \to \infty}$ 일 때 $\lim_{n \to \infty}a_n = \alpha$
 <br><br>
-와 같이 나타낸다. 여기서 a<sub>n</sub> = $\alpha$가 아니라 n이 무한대로 갈 때 $\alpha$로 가까워 지는것을 말한다.
+와 같이 나타낸다. 여기서 $a_n$ = $\alpha$가 아니라 n이 무한대로 갈 때 $\alpha$로 가까워 지는것을 말한다.
 
 * Divergent <br>
-발산의 경우 {a<sub>n</sub>}에서 n이 한없이 커질 때, a<sub>n</sub>의 값이 한없이 커지면 수열 {a<sub>n</sub>}은 양의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
+발산의 경우 {$a_n$}에서 n이 한없이 커질 때, $a_n$의 값이 한없이 커지면 수열 {$a_n$}은 양의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\lim_{n \to \infty}a_n = \infty$
 <br><br>
-{a<sub>n</sub>}에서 n이 한없이 커질 때, a<sub>n</sub>의 값이 음수이면서 그 절댓값이 한없이 커지면 {a<sub>n</sub>}은 음의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
+{$a_n$}에서 n이 한없이 커질 때, $a_n$의 값이 음수이면서 그 절댓값이 한없이 커지면 {$a_n$}은 음의 무한대로 발산한다고 하며 다음과 같이 나타낸다.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\lim_{n \to \infty}a_n = -\infty$
 <br><br>
-수열 {a<sub>n</sub>}이 수렴하지도 않고, 발산하지도 않으면 진동한다고 한다.
+수열 {$a_n$}이 수렴하지도 않고, 발산하지도 않으면 진동한다고 한다.
+
+### 2. Limit Laws of Convergent Sequences
+
+수열 {$a_n$}와 {$b_n$}이 모두 수렴하고 $\lim_{n \to \infty}a_n = \alpha$, $\lim_{n \to \infty}b_n = \beta$ 일 때 <br>
+* $\lim_{n \to \infty}ka_n = k\lim_{n \to \infty}a_n = k\alpha$ ($k$는 상수)
+* $\lim_{n \to \infty}(a_n \pm b_n) = \lim_{n \to \infty}a_n \pm \lim_{n \to \infty}b_n = \alpha \pm \beta$ (복부호동순)
+* $\lim_{n \to \infty}(a_n b_n) = \lim_{n \to \infty}a_n \times \lim_{n \to \infty}b_n = \alpha\beta$
