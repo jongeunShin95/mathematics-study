@@ -38,3 +38,4 @@ use_math: true
 * $\lim_{n \to \infty}(a_n \pm b_n) = \lim_{n \to \infty}a_n \pm \lim_{n \to \infty}b_n = \alpha \pm \beta$ (복부호동순)
 * $\lim_{n \to \infty}(a_n b_n) = \lim_{n \to \infty}a_n \times \lim_{n \to \infty}b_n = \alpha\beta$
 * $\lim_{n \to \infty}\frac{a_n}{b_n} = \frac{\lim_{n \to \infty}a_n}{\lim_{n \to \infty}b_n} = \frac{\alpha}{\beta} (b_n \neq 0, \beta \neq 0)$
+* $\lim_{n \to \infty}(a_n)^k = (lim_{n \to \infty}a_n)^k = (\alpha)^k$ ($k$는 자연수)
