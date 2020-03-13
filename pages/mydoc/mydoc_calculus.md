@@ -39,3 +39,15 @@ use_math: true
 * $\lim_{n \to \infty}(a_n b_n) = \lim_{n \to \infty}a_n \times \lim_{n \to \infty}b_n = \alpha\beta$
 * $\lim_{n \to \infty}\frac{a_n}{b_n} = \frac{\lim_{n \to \infty}a_n}{\lim_{n \to \infty}b_n} = \frac{\alpha}{\beta} (b_n \neq 0, \beta \neq 0)$
 * $\lim_{n \to \infty}(a_n)^k = (lim_{n \to \infty}a_n)^k = (\alpha)^k$ ($k$는 자연수)
+
+
+### 2. Estimating the value of limits
+
+1) $\frac{\infty}{\infty}$꼴: 분모의 최고차항으로 분모, 분자를 나눈다. <br>
+    * (분자의 차수) > (분모의 차수) => $\lim_{n \to \infty}a_n = \infty 또는 -\infty$
+    * (분자의 차수) = (분모의 차수) => $\lim_{n \to \infty}a_n = 최고차항의 계수의 비$
+    * (분자의 차수) < (분모의 차수) => $\lim_{n \to \infty}a_n = 0$
+
+2) $\infty - \infty$꼴
+    1. 다항식의 극한은 최고차항으로 묶는다.
+    2. 무리식의 극한은 분모 또는 분자를 유리화한다.
