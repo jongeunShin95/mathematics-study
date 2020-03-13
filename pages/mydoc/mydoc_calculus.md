@@ -51,3 +51,7 @@ use_math: true
 2) $\infty - \infty$꼴
 * 다항식의 극한은 최고차항으로 묶는다.
 * 무리식의 극한은 분모 또는 분자를 유리화한다.
+
+3) example
+
+{% include inline_image.html file="calculus/limit_of_sequence/Estimating the value of limits/example.png" alt="example" %}
