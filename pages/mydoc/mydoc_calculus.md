@@ -54,4 +54,4 @@ use_math: true
 
 3) example
 
-{% include inline_image.html file="calculus/limit_of_sequence/Estimating the value of limits/example.png" alt="example" %}
+{% include inline_image.html file="calculus/limit_of_sequence/Estimating the value of limits/example1.png" alt="example" %}
