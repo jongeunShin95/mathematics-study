@@ -41,7 +41,7 @@ use_math: true
 * $\lim_{n \to \infty}(a_n)^k = (lim_{n \to \infty}a_n)^k = (\alpha)^k$ ($k$는 자연수)
 
 
-### 2. Estimating the value of limits
+### 3. Estimating the value of limits
 
 1) $\frac{\infty}{\infty}$꼴: 분모의 최고차항으로 분모, 분자를 나눈다. <br>
 * (분자의 차수) > (분모의 차수) => $\lim_{n \to \infty}a_n = \infty$ 또는 $-\infty$
@@ -55,3 +55,9 @@ use_math: true
 3) example
 
 {% include inline_image.html file="calculus/limit_of_sequence/Estimating the value of limits/example1.png" alt="example" %}
+
+### 4. Sandwich theorem
+
+수열 {$a_n$}, {$b_n$}, {$c_n$}에 대하여
+* $a_n \leqq c_n \leqq b_n$이고 $\lim_{n \to \infty}a_n = \lim_{n \to \infty}b_n = \alpha$이면 $lim_{n \to \infty}c_n = \alpha$
+* 모든 자연수 $n$에 대하여 $a_n < c_n < b_n$이어도 $lim_{n \to \infty}a_n = lim_{n \to \infty}b_n = \alpha$이면 $lim_{n \to \infty}c_n = \alpha$가 성립한다.
