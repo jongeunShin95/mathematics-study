@@ -61,3 +61,7 @@ use_math: true
 수열 {$a_n$}, {$b_n$}, {$c_n$}에 대하여
 * $a_n \leqq c_n \leqq b_n$이고 $\lim_{n \to \infty}a_n = \lim_{n \to \infty}b_n = \alpha$이면 $lim_{n \to \infty}c_n = \alpha$
 * 모든 자연수 $n$에 대하여 $a_n < c_n < b_n$이어도 $lim_{n \to \infty}a_n = lim_{n \to \infty}b_n = \alpha$이면 $lim_{n \to \infty}c_n = \alpha$가 성립한다.
+
+example
+
+{% include inline_image.html file="calculus/limit_of_sequence/sandwich theorem/sandwich_theorem_example.png" alt="example" %}
