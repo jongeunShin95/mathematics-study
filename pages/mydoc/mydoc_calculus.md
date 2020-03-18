@@ -68,7 +68,7 @@ use_math: true
 
 ### 5. Infinite Geometric Series
 
-1) $r > 1$일 때 $\lim_{n \to \infty}r^n = \infty$
-2) $r = 1$일 때 $\lim_{n \to \infty}r^n = 1$
-3) $-1 < r < 1$일 때 $\lim_{n \to \infty}r^n = 0$
-4) $r \leqq -1$일 때 {$r^n$}은 진동 (발산)
+* $r > 1$일 때 $\lim_{n \to \infty}r^n = \infty$
+* $r = 1$일 때 $\lim_{n \to \infty}r^n = 1$
+* $-1 < r < 1$일 때 $\lim_{n \to \infty}r^n = 0$
+* $r \leqq -1$일 때 {$r^n$}은 진동 (발산)
