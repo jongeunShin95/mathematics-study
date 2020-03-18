@@ -43,3 +43,9 @@ n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 <br>
 
 {% include inline_image.html file="probability_and_statistics/number_of_cases/circular_permutation/another_permutation.png" alt="circle_image" %}
+
+
+### 2. Permutations with Repetition
+
+서로 다른 n개에서 중복을 허락하여 r개를 택하는 중복순열의 수는<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$_{n}\mathrm{\pi}_{r}$
