@@ -80,7 +80,7 @@ use_math: true
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$a_1 + a_2 + \cdots + a_n + \cdots$
 <br><br>
-을 급수라 하고, 이것을 기호 \Sigma를 사용하여 나타내면 다음과 같다.
+을 급수라 하고, 이것을 기호 \sigma를 사용하여 나타내면 다음과 같다.
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$a_1 + a_2 + \cdots + a_n + \cdots = \sum_{n=1}^\infty a_k$
 <br><br>
