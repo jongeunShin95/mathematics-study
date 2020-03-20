@@ -86,7 +86,7 @@ use_math: true
 <br><br>
 급수 $\sum_{n=1}^\infty a_n$에서 첫째항부터 제 n항까지의 합 $S_n$을 이 급수의 제 n항까지의 부분합이라 한다.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$S_n = a_1 + a_2 + \cdots + + a_n = \sum_{k=1}^n a_k$
-<br>
+<br><br>
 2) 급수의 수렴과 발산
 급수 $\sum_{n=1}^\infty a_n$의 부분합으로 이루어진 수열 $S_1, S_2, S_3, \cdots, S_n, \cdots$을 {$S_n$}이라 할 때,
 * 수열 {$S_n$}이 수렴하면 급수 $\sum_{n=1}^\infty a_n$은 수렴한다.<br>이 떄 $\lim_{n \to \infty}S_n = S$라고 하면 급수는 $S$에 수렴한다고 하며 $S$를 이 급수의 합이라고 한다.
