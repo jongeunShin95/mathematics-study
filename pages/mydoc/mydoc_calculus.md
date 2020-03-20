@@ -77,25 +77,18 @@ use_math: true
 
 1) 급수의 부분합
 수열 {$a_n$}의 각 항을 차례로 더한 식
-<br><br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 $a_1 + a_2 + \cdots + a_n + \cdots$
 
-<br><br>
-
 을 급수라 하고, 이것을 기호 \Sigma를 사용하여 나타내면 다음과 같다.
 
-<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-$a_1 + a_2 + \cdots + a_n + \codts = \sum_{n=1}^\infty a_k$
-
-<br><br>
+$a_1 + a_2 + \cdots + a_n + \cdots = \sum_{n=1}^\infty a_k$
 
 급수 $\sum_{n=1}^\infty a_k$에서 첫째항부터 제 n항까지의 합 $S_n$을 이 급수의 제 n항까지의 부분합이라 한다.
-
-<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
