@@ -57,4 +57,11 @@ n개 중 p개, q개, r개, $\cdots$, s개가 각각 같은 것일 때, 이들을
 
 * $\frac{n!}{p! \times q! \times r! \times \cdots \times s!}$ (단, $n = p + q + r + \cdots + s$)
 
+example
+
 {% include inline_image.html file="probability_and_statistics/number_of_cases/multiset_permutation/problem.png" alt="problem" %}
+
+최단 경로로 가기 위해서는 왼쪽이나 아랫쪽으로 이동하면 안되며 그림에서 최단 경로 중 가장 쉬운 방법 한가지로는 오른쪽으로 4번, 위쪽으로 3번을 가는 것이다.
+따라서 이 방법이 최단 경로가 되고 이 방법으로 A지점에서 B지점으로 가기 위한 경우의 수를 구해야되는데 오른쪽으로 가는 방법을 a, 위쪽으로 가는 방법을 b라고 했을 때
+a,a,a,a,b,b,b를 나열하는 경우의 수로 문제를 풀 수 있다.<br>
+따라서 경우의 수는 $\frac{7!}{4! \times 3! = 35}$(가지) 가 된다.
