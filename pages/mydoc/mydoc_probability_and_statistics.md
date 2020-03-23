@@ -53,6 +53,8 @@ n개의 서로 다른 것을 원형으로 배열하는 방법의 수 <br>
 
 ### 3. Multiset Permutation
 
-n개 중 p개, q개, r개, $/cdots$, s개가 각각 같은 것일 때, 이들을 일렬로 나열하는 순열의 수는
+n개 중 p개, q개, r개, $\cdots$, s개가 각각 같은 것일 때, 이들을 일렬로 나열하는 순열의 수는
 
-* $\frac{n!}{p! \times q! \times r! \times \cdots \times s!}$ (단, $n = p + q + r + /cdots + s$)
+* $\frac{n!}{p! \times q! \times r! \times \cdots \times s!}$ (단, $n = p + q + r + \cdots + s$)
+
+{% include inline_image.html file="probability_and_statistics/number_of_cases/multiset_permutation/problem.png" alt="problem" %}
