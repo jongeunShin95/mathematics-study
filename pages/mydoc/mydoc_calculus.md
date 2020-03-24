@@ -1,7 +1,7 @@
 ---
 title: calculus
 sidebar: mydoc_sidebar
-keywords: calculus
+keywords: calculus, Limit of sequence, Convergent and Divergent Sequences, Limit Laws of Convergent Sequences, Estimating the value of limits, Sandwich theorem, Infinite Geometric Series, Convergent and Divergent Series
 permalink: mydoc_calculus.html
 summary: "calculus"
 folder: mydoc

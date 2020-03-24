@@ -1,7 +1,7 @@
 ---
 title: probability and statistics
 sidebar: mydoc_sidebar
-keywords: probability, statistics, permutation, circular
+keywords: probability, Number of cases, Circular Permutation, Permutations with Repetition, Multiset Permutation
 permalink: mydoc_probability_and_statistics.html
 summary: "probability and statistics"
 folder: mydoc
