@@ -96,8 +96,8 @@ use_math: true
 
 ### 7. Series Properties
 
-급수 $\sum_{n=1}^\infty ca_n, \sum_{n=1}^\infty b_n$이 수렴할 때, 그 합을 각각 S, T라 하면
+급수 $\sum_{n=1}^\infty ca_n, \sum_{n=1}^\infty b_n$이 수렴할 때, 그 합을 각각 $S, T$라 하면
 
-* $\sum_{n=1}^\infty ca_n = c\sum_{n=1}^\infty a_n = cS$ (단, c는 상수)
+* $\sum_{n=1}^\infty ca_n = c\sum_{n=1}^\infty a_n = cS$ (단, $c$는 상수)
 * $\sum_{n=1}^\infty (a_n + b_n) = \sum_{n=1}^\infty a_n + \sum_{n=1}^\infty b_n = S + T$
 * $\sum_{n=1}^\infty (a_n - b_n) = \sum_{n=1}^\infty a_n - \sum_{n=1}^\infty b_n = S - T$
