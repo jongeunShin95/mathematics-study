@@ -17,8 +17,9 @@ use_math: true
 수열 {$a_n$}에서 n이 한없이 커질 때, $a_n$이 일정한 값 $\alpha$에 한없이 가까워지면 수열 {$a_n$}은 $\alpha$에 수렴한다고 한다. <br>이때, $\alpha$를 수열 {$a_n$}의 극한값 또는 극한이라고 하고, 이것을 기호로
 
 ```
-\alpha$
+${n \to \infty}$ 일 때 $\lim_{n \to \infty}a_n = \alpha$
 ```
+
 
 와 같이 나타낸다. 여기서 $a_n$ = $\alpha$가 아니라 n이 무한대로 갈 때 $\alpha$로 가까워 지는것을 말한다.
 
