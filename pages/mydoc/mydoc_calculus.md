@@ -93,3 +93,11 @@ use_math: true
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$\lim_{n \to \infty}S_n = \lim_{n \to \infty}\sum_{k=1}^n a_k = \sum_{n=1}^\infty a_n = S$
 * 수열 {$S_n$}이 발산하면 급수 $\sum_{n=1}^\infty a_n$은 발산한다.
+
+### 7. Series Properties
+
+급수 $\sum_{n=1}^\infty ca_n, \sum_{n=1}^\infty b_n$이 수렴할 때, 그 합을 각각 S, T라 하면
+
+* $\sum_{n=1}^\infty ca_n = c\sum_{n=1}^\infty a_n = cS$ (단, c는 상수)
+* $\sum_{n=1}^\infty (a_n + b_n) = \sum_{n=1}^\infty a_n + \sum_{n=1}^\infty b_n = S + T$
+* $\sum_{n=1}^\infty (a_n - b_n) = \sum_{n=1}^\infty a_n - \sum_{n=1}^\infty b_n = S - T$
