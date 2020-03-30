@@ -69,5 +69,4 @@ a,a,a,a,b,b,b를 나열하는 경우의 수로 문제를 풀 수 있다. 따라�
 ### 4. Combination with Repetition
 
 서로 다은 $n$개에서 $r$개를 택하는 중복조합의 수는
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$_{n}H_{r} = _{n+r-1}C_{n-1} = _{n+r-1}C_{r}$
-<br><br>
+* $\_{n}H_{r} = \_{n+r-1}C_{n-1} = \_{n+r-1}C_{r}$
