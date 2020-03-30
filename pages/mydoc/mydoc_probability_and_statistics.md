@@ -70,3 +70,13 @@ a,a,a,a,b,b,b를 나열하는 경우의 수로 문제를 풀 수 있다. 따라�
 
 서로 다은 $n$개에서 $r$개를 택하는 중복조합의 수는
 * $\_{n}H_{r} = \_{n+r-1}C_{n-1} = \_{n+r-1}C_{r}$
+
+수식을 이해하기 위한 예를 들어보면, 중국집에 4명의 손님이 왔을 경우 짜장면과 짬뽕을 주문하는 경우 주방장의 입장에서 조리해야 되는 수를 생각해보면 된다. 이 때, 조합의 수를 더 쉽게 보기 위해 4개의 그릇을 두고 또한 짜장면인지 짬뽕인지 구분을 위해서 젓가락 하나는 놓는다고 생각한다.
+
+{% include inline_image.html file="probability_and_statistics/number_of_cases/combination_with_repetition/example.png" alt="problem" %}
+
+n = 2 (짜장면, 짬뽕)<br>
+r = 4(빈그릇)<br>
+젓가락 수 = n - 1 <br>
+
+$\_{빈그릇 수 + 젓가락 수}C_{젓가락 수} = \_{r + n - 1}C_{n - 1}$ 이 된다.
